@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
+<h1>Hi 👋, I'm Nitin Maurya</h1>
+<h4>An Enthusiastic Learner Exploring Science and Technology</h4>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1500&color=36BCF7&center=true&vCenter=true&lines=The+noblest+pleasure+is+the+joy+of+understanding.;—+Leonardo+da+Vinci" alt="Typing SVG" />
+</div>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Maurya-Nitin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/Maurya-Nitin?label=GitHub%20Stars&style=social" alt="GitHub Stars" />
+</p>
 
-<!--
-**Maurya-Nitin/Maurya-Nitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<h1>🌟 About Me</h1>
+    🔭 Currently diving deep into <strong>Science and Technology</strong>.<br>
+    🌱 Learning <strong>Python, Linux, and C Programming</strong>.<br>
+    💡 Passionate about <strong>creating solutions</strong> for <strong>unaddressed challenges</strong>.<br>
+    📫 Reach me at: <strong>mauryanitin1410@gmail.com</strong>
+</p>
 
-Here are some ideas to get you started:
+<h1>🌐 Connect with Me</h1>
+<p>
+    <a href="mailto:mauryanitin1410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>🛠️ Languages and Tools</h1>
+
+<h2>Languages</h2>
+<p>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+</p>
+
+<h2>Tools</h2>
+<p>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="Photoshop" width="40" height="40"/>
+    </a>
+    <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
+        <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg" alt="Wondershare Filmora" width="40" height="40"/>
+    </a>
+</p>

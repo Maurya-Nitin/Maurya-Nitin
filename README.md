@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Nitin Maurya</h1>
-<h4>An Enthusiastic Learner Exploring Science and Technology</h4>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1500&color=36BCF7&center=true&vCenter=true&lines=The+noblest+pleasure+is+the+joy+of+understanding.;—+Leonardo+da+Vinci" alt="Typing SVG" />
+<h4>An Enthusiastic High School Learner Exploring Science and Technology</h4>
 </div>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Maurya-Nitin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />

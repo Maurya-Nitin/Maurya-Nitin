@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Nitin Maurya</h1>
-<h4>An Enthusiastic Electronics & Communication Engineering Student Learner Exploring Science and Technology</h4>
+<h4>An Enthusiastic Electronics & Communication Engineering Student Exploring Science and Technology</h4>
 </div>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Maurya-Nitin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
